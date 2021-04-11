@@ -5,5 +5,5 @@ This data has been complied from multiple sources and the Open Data from the Gov
 NOTE:
 Ontario R values will be updated once a week (Saturdays).
 
-It will be updated daily by 10:00PM
+It will be updated daily
 
