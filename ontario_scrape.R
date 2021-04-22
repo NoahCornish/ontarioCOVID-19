@@ -1,6 +1,6 @@
 # ******
 # Variants of concern PDF scrape
-# as of April 19, 2021
+# as of April 22, 2021
 # always check page numbers haven't been changed
 
 # load libraries
