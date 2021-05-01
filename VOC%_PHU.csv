@@ -1,35 +1,35 @@
-health_region_name,location,health_region_code,day7
-Algoma Public Health Unit,n,3526,60.9
-Brant County Health Unit,s,3527,70.8
-Chatham-Kent Health Unit,s,3540,73.7
-Durham Region Health Department,s,3530,82.3
-Eastern Ontario Health Unit,s,3558,49.8
-Grey Bruce Health Unit,s,3533,57.1
-Haldimand-Norfolk Health Unit,s,3534,70.1
-"Haliburton, Kawartha, Pine Ridge District Health Unit",s,3535,63.4
-Halton Region Health Department,s,3536,77.5
-Hamilton Public Health Services,s,3537,75.9
-Hastings and Prince Edward Counties Health Unit,s,3538,71.7
-Huron Perth Health Unit,s,3539,69.7
-"Kingston, Frontenac and Lennox and Addington Health Unit",s,3541,79.4
-Lambton Public Health,s,3542,75.6
-"Leeds, Grenville and Lanark District Health Unit",s,3543,55.7
-Middlesex-London Health Unit,s,3544,74.3
-Niagara Region Public Health Department,s,3546,37.8
-North Bay Parry Sound District Health Unit,n,3547,75
-Northwestern Health Unit,n,3549,4.7
-Ottawa Public Health,s,3551,52.2
-Peel Public Health,s,3553,72.5
-Peterborough Public Health,s,3555,76.1
-Porcupine Health Unit,n,3556,70.5
-"Region of Waterloo, Public Health",s,3565,69.7
-Renfrew County and District Health Unit,s,3557,55.6
-Simcoe Muskoka District Health Unit,s,3560,79.6
-Southwestern Public Health,s,3575,65.9
-Sudbury and District Health Unit,n,3561,88.2
-Thunder Bay District Health Unit,n,3562,23.4
-Timiskaming Health Unit,n,3563,58.3
-Toronto Public Health,s,3595,79.7
-Wellington-Dufferin-Guelph Health Unit,s,3566,76
-Windsor-Essex County Health Unit,s,3568,64.7
-York Region Public Health,s,3570,83.4
+"health_region_name","location","health_region_code","day7"
+"Algoma Public Health Unit","n",3526,66.7
+"Brant County Health Unit","s",3527,71.3
+"Chatham-Kent Health Unit","s",3540,84.4
+"Durham Region Health Department","s",3530,81.9
+"Eastern Ontario Health Unit","s",3558,44.4
+"Grey Bruce Health Unit","s",3533,61.4
+"Haldimand-Norfolk Health Unit","s",3534,69.1
+"Haliburton, Kawartha, Pine Ridge District Health Unit","s",3535,72.3
+"Halton Region Health Department","s",3536,77.3
+"Hamilton Public Health Services","s",3537,77.3
+"Hastings and Prince Edward Counties Health Unit","s",3538,80.3
+"Huron Perth Health Unit","s",3539,83.9
+"Kingston, Frontenac and Lennox and Addington Health Unit","s",3541,75.9
+"Lambton Public Health","s",3542,73
+"Leeds, Grenville and Lanark District Health Unit","s",3543,53.6
+"Middlesex-London Health Unit","s",3544,74.2
+"Niagara Region Public Health Department","s",3546,43.4
+"North Bay Parry Sound District Health Unit","n",3547,60
+"Northwestern Health Unit","n",3549,4.4
+"Ottawa Public Health","s",3551,47.3
+"Peel Public Health","s",3553,71.6
+"Peterborough Public Health","s",3555,73.5
+"Porcupine Health Unit","n",3556,70.9
+"Region of Waterloo, Public Health","s",3565,69.7
+"Renfrew County and District Health Unit","s",3557,53.1
+"Simcoe Muskoka District Health Unit","s",3560,79.4
+"Southwestern Public Health","s",3575,71.1
+"Sudbury and District Health Unit","n",3561,89.1
+"Thunder Bay District Health Unit","n",3562,22.7
+"Timiskaming Health Unit","n",3563,63
+"Toronto Public Health","s",3595,80.5
+"Wellington-Dufferin-Guelph Health Unit","s",3566,75.2
+"Windsor-Essex County Health Unit","s",3568,68.9
+"York Region Public Health","s",3570,82.4
